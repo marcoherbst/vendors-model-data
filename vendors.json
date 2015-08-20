@@ -1,0 +1,601 @@
+{
+vendors: [
+{
+id: "avigilon",
+name: "Avigilon Corporation",
+known_macs: [
+"00:18:85"
+],
+total_models: 1,
+logo: "http://evercam-public-assets.s3.amazonaws.com/avigilon/logo.jpg"
+},
+{
+id: "avtech",
+name: "AVTECH Corporation",
+known_macs: [
+"00:0E:53"
+],
+total_models: 52,
+logo: "http://evercam-public-assets.s3.amazonaws.com/avtech/logo.jpg"
+},
+{
+id: "axis",
+name: "Axis Communications",
+known_macs: [
+"00:40:8C"
+],
+total_models: 191,
+logo: "http://evercam-public-assets.s3.amazonaws.com/axis/logo.jpg"
+},
+{
+id: "dlink",
+name: "D-Link Corporation",
+known_macs: [
+"00:05:5D",
+"00:0D:88",
+"00:0F:3D",
+"00:11:95",
+"00:13:46",
+"00:15:E9",
+"00:17:9A",
+"00:19:5B",
+"00:1B:11",
+"00:1C:F0",
+"00:1E:58",
+"00:21:91",
+"00:22:B0",
+"00:24:01",
+"00:26:5A",
+"14:D6:4D",
+"1C:7E:E5",
+"28:10:7B",
+"34:08:04",
+"5C:D9:98",
+"78:54:2E",
+"84:C9:B2",
+"90:94:E4",
+"AC:F1:DF",
+"B8:A3:86",
+"BC:F6:85",
+"C8:BE:19",
+"C8:D3:A3",
+"CC:B2:55",
+"F0:7D:68",
+"FC:75:16"
+],
+total_models: 77,
+logo: "http://evercam-public-assets.s3.amazonaws.com/dlink/logo.jpg"
+},
+{
+id: "panasonic",
+name: "Panasonic Communications",
+known_macs: [
+"00:80:F0"
+],
+total_models: 105,
+logo: "http://evercam-public-assets.s3.amazonaws.com/panasonic/logo.jpg"
+},
+{
+id: "tplink",
+name: "TP-Link Technologies",
+known_macs: [
+"54:E6:FC"
+],
+total_models: 9,
+logo: "http://evercam-public-assets.s3.amazonaws.com/tplink/logo.jpg"
+},
+{
+id: "vivotek",
+name: "Vivotek",
+known_macs: [
+"00:02:D1"
+],
+total_models: 167,
+logo: "http://evercam-public-assets.s3.amazonaws.com/vivotek/logo.jpg"
+},
+{
+id: "evercam-capture",
+name: "Evercam Capture",
+known_macs: [ ],
+total_models: 3,
+logo: "http://evercam-public-assets.s3.amazonaws.com/evercam-capture/logo.jpg"
+},
+{
+id: "arecont-vision",
+name: "Arecont-vision",
+known_macs: [
+""
+],
+total_models: 183,
+logo: "http://evercam-public-assets.s3.amazonaws.com/arecont-vision/logo.jpg"
+},
+{
+id: "airlive",
+name: "Airlive",
+known_macs: [
+""
+],
+total_models: 32,
+logo: "http://evercam-public-assets.s3.amazonaws.com/airlive/logo.jpg"
+},
+{
+id: "abus",
+name: "ABUS Security-Center",
+known_macs: [
+"8C:11:CB"
+],
+total_models: 34,
+logo: "http://evercam-public-assets.s3.amazonaws.com/abus/logo.jpg"
+},
+{
+id: "foscam",
+name: "Foscam",
+known_macs: [
+"00:62:6E"
+],
+total_models: 32,
+logo: "http://evercam-public-assets.s3.amazonaws.com/foscam/logo.jpg"
+},
+{
+id: "android",
+name: "Android",
+known_macs: [ ],
+total_models: 4,
+logo: "http://evercam-public-assets.s3.amazonaws.com/android/logo.jpg"
+},
+{
+id: "apexis",
+name: "Apexis",
+known_macs: [ ],
+total_models: 1,
+logo: "http://evercam-public-assets.s3.amazonaws.com/apexis/logo.jpg"
+},
+{
+id: "bewan",
+name: "Bewan",
+known_macs: [ ],
+total_models: 2,
+logo: "http://evercam-public-assets.s3.amazonaws.com/bewan/logo.jpg"
+},
+{
+id: "bosch",
+name: "Bosch",
+known_macs: [ ],
+total_models: 1,
+logo: "http://evercam-public-assets.s3.amazonaws.com/bosch/logo.jpg"
+},
+{
+id: "brickcom",
+name: "Brickcom",
+known_macs: [ ],
+total_models: 129,
+logo: "http://evercam-public-assets.s3.amazonaws.com/brickcom/logo.jpg"
+},
+{
+id: "dahua",
+name: "Dahua",
+known_macs: [ ],
+total_models: 174,
+logo: "http://evercam-public-assets.s3.amazonaws.com/dahua/logo.jpg"
+},
+{
+id: "db",
+name: "DB",
+known_macs: [ ],
+total_models: 2,
+logo: "http://evercam-public-assets.s3.amazonaws.com/db/logo.jpg"
+},
+{
+id: "easy-n",
+name: "Easy N",
+known_macs: [ ],
+total_models: 1,
+logo: "http://evercam-public-assets.s3.amazonaws.com/easy-n/logo.jpg"
+},
+{
+id: "edimax",
+name: "Edimax",
+known_macs: [ ],
+total_models: 2,
+logo: "http://evercam-public-assets.s3.amazonaws.com/edimax/logo.jpg"
+},
+{
+id: "grandstream",
+name: "Grandstream",
+known_macs: [ ],
+total_models: 19,
+logo: "http://evercam-public-assets.s3.amazonaws.com/grandstream/logo.jpg"
+},
+{
+id: "grundig",
+name: "Grundig",
+known_macs: [ ],
+total_models: 1,
+logo: "http://evercam-public-assets.s3.amazonaws.com/grundig/logo.jpg"
+},
+{
+id: "ip-camera",
+name: "IP Camera",
+known_macs: [ ],
+total_models: 1,
+logo: "http://evercam-public-assets.s3.amazonaws.com/ip-camera/logo.jpg"
+},
+{
+id: "iqinvision",
+name: "IQinVision",
+known_macs: [ ],
+total_models: 95,
+logo: "http://evercam-public-assets.s3.amazonaws.com/iqinvision/logo.jpg"
+},
+{
+id: "linksys",
+name: "Linksys",
+known_macs: [ ],
+total_models: 10,
+logo: "http://evercam-public-assets.s3.amazonaws.com/linksys/logo.jpg"
+},
+{
+id: "loftek",
+name: "Loftek",
+known_macs: [ ],
+total_models: 1,
+logo: "http://evercam-public-assets.s3.amazonaws.com/loftek/logo.jpg"
+},
+{
+id: "longvast",
+name: "Longvast",
+known_macs: [ ],
+total_models: 3,
+logo: "http://evercam-public-assets.s3.amazonaws.com/longvast/logo.jpg"
+},
+{
+id: "mobotix",
+name: "Mobotix",
+known_macs: [ ],
+total_models: 13,
+logo: "http://evercam-public-assets.s3.amazonaws.com/mobotix/logo.jpg"
+},
+{
+id: "wansview",
+name: "Wansview",
+known_macs: [ ],
+total_models: 34,
+logo: "http://evercam-public-assets.s3.amazonaws.com/wansview/logo.jpg"
+},
+{
+id: "zavio",
+name: "Zavio",
+known_macs: [ ],
+total_models: 34,
+logo: "http://evercam-public-assets.s3.amazonaws.com/zavio/logo.jpg"
+},
+{
+id: "zenith",
+name: "Zenith",
+known_macs: [ ],
+total_models: 1,
+logo: "http://evercam-public-assets.s3.amazonaws.com/zenith/logo.jpg"
+},
+{
+id: "acti",
+name: "ACTi",
+known_macs: [
+""
+],
+total_models: 369,
+logo: "http://evercam-public-assets.s3.amazonaws.com/acti/logo.jpg"
+},
+{
+id: "planet",
+name: "Planet",
+known_macs: [
+""
+],
+total_models: 41,
+logo: "http://evercam-public-assets.s3.amazonaws.com/planet/logo.jpg"
+},
+{
+id: "lumenera",
+name: "Lumenera",
+known_macs: [
+""
+],
+total_models: 12,
+logo: "http://evercam-public-assets.s3.amazonaws.com/lumenera/logo.jpg"
+},
+{
+id: "asoni",
+name: "Asoni",
+known_macs: [
+""
+],
+total_models: 29,
+logo: "http://evercam-public-assets.s3.amazonaws.com/asoni/logo.jpg"
+},
+{
+id: "dallmeier",
+name: "Dallmeier",
+known_macs: [
+""
+],
+total_models: 20,
+logo: "http://evercam-public-assets.s3.amazonaws.com/dallmeier/logo.jpg"
+},
+{
+id: "abs",
+name: "ABS",
+known_macs: [
+""
+],
+total_models: 7,
+logo: "http://evercam-public-assets.s3.amazonaws.com/abs/logo.jpg"
+},
+{
+id: "afreey",
+name: "Afreey",
+known_macs: [
+""
+],
+total_models: 37,
+logo: "http://evercam-public-assets.s3.amazonaws.com/afreey/logo.jpg"
+},
+{
+id: "ycam",
+name: "Y-cam Solutions",
+known_macs: [
+"00:0D:F0",
+"00:A1:B0",
+"00:E0:4C",
+"78:12:B8",
+"00:19:70"
+],
+total_models: 35,
+logo: "http://evercam-public-assets.s3.amazonaws.com/ycam/logo.jpg"
+},
+{
+id: "samsung",
+name: "Samsung",
+known_macs: [
+"00:16:6C"
+],
+total_models: 78,
+logo: "http://evercam-public-assets.s3.amazonaws.com/samsung/logo.jpg"
+},
+{
+id: "sony",
+name: "Sony",
+known_macs: [
+"54:53:ED",
+"54:42:49"
+],
+total_models: 102,
+logo: "http://evercam-public-assets.s3.amazonaws.com/sony/logo.jpg"
+},
+{
+id: "other",
+name: "Unknown",
+known_macs: [ ],
+total_models: 1,
+logo: "http://evercam-public-assets.s3.amazonaws.com/other/logo.jpg"
+},
+{
+id: "sricam",
+name: "Sricam",
+known_macs: [
+""
+],
+total_models: 14,
+logo: "http://evercam-public-assets.s3.amazonaws.com/sricam/logo.jpg"
+},
+{
+id: "tenvis",
+name: "Tenvis",
+known_macs: [ ],
+total_models: 2,
+logo: "http://evercam-public-assets.s3.amazonaws.com/tenvis/logo.jpg"
+},
+{
+id: "3s-vision",
+name: "3S Vision",
+known_macs: [ ],
+total_models: 68,
+logo: "http://evercam-public-assets.s3.amazonaws.com/3s-vision/logo.jpg"
+},
+{
+id: "agasio",
+name: "Agasio",
+known_macs: [
+""
+],
+total_models: 13,
+logo: "http://evercam-public-assets.s3.amazonaws.com/agasio/logo.jpg"
+},
+{
+id: "aposonic",
+name: "Aposonic",
+known_macs: [
+""
+],
+total_models: 8,
+logo: "http://evercam-public-assets.s3.amazonaws.com/aposonic/logo.jpg"
+},
+{
+id: "basler",
+name: "Basler",
+known_macs: [
+""
+],
+total_models: 21,
+logo: "http://evercam-public-assets.s3.amazonaws.com/basler/logo.jpg"
+},
+{
+id: "beward",
+name: "Beward",
+known_macs: [
+""
+],
+total_models: 20,
+logo: "http://evercam-public-assets.s3.amazonaws.com/beward/logo.jpg"
+},
+{
+id: "canon",
+name: "Canon",
+known_macs: [
+""
+],
+total_models: 15,
+logo: "http://evercam-public-assets.s3.amazonaws.com/canon/logo.jpg"
+},
+{
+id: "compro",
+name: "Compro",
+known_macs: [
+""
+],
+total_models: 71,
+logo: "http://evercam-public-assets.s3.amazonaws.com/compro/logo.jpg"
+},
+{
+id: "cp-plus",
+name: "CP-Plus",
+known_macs: [
+""
+],
+total_models: 116,
+logo: "http://evercam-public-assets.s3.amazonaws.com/cp-plus/logo.jpg"
+},
+{
+id: "dericam",
+name: "Dericam",
+known_macs: [
+""
+],
+total_models: 16,
+logo: "http://evercam-public-assets.s3.amazonaws.com/dericam/logo.jpg"
+},
+{
+id: "flir",
+name: "Flir",
+known_macs: [
+""
+],
+total_models: 13,
+logo: "http://evercam-public-assets.s3.amazonaws.com/flir/logo.jpg"
+},
+{
+id: "qvis",
+name: "Qvis",
+known_macs: [
+""
+],
+total_models: 35,
+logo: "http://evercam-public-assets.s3.amazonaws.com/qvis/logo.jpg"
+},
+{
+id: "sercomm",
+name: "Sercomm",
+known_macs: [
+""
+],
+total_models: 4,
+logo: "http://evercam-public-assets.s3.amazonaws.com/sercomm/logo.jpg"
+},
+{
+id: "siemens",
+name: "Siemens",
+known_macs: [
+""
+],
+total_models: 16,
+logo: "http://evercam-public-assets.s3.amazonaws.com/siemens/logo.jpg"
+},
+{
+id: "starvedia",
+name: "Starvedia",
+known_macs: [
+""
+],
+total_models: 6,
+logo: "http://evercam-public-assets.s3.amazonaws.com/starvedia/logo.jpg"
+},
+{
+id: "teltonika",
+name: "Teltonika",
+known_macs: [
+""
+],
+total_models: 3,
+logo: "http://evercam-public-assets.s3.amazonaws.com/teltonika/logo.jpg"
+},
+{
+id: "geniv",
+name: "GENIV",
+known_macs: [
+""
+],
+total_models: 1,
+logo: "http://evercam-public-assets.s3.amazonaws.com/geniv/logo.jpg"
+},
+{
+id: "convision",
+name: "CONVISION",
+known_macs: [
+""
+],
+total_models: 1,
+logo: "http://evercam-public-assets.s3.amazonaws.com/convision/logo.jpg"
+},
+{
+id: "hikvision",
+name: "Hikvision Digital Technology",
+known_macs: [
+"00:0C:43",
+"00:40:48",
+"8C:E7:48",
+"00:3E:0B",
+"44:19:B7",
+"00:0C:43",
+"00:40:48",
+"8C:E7:48",
+"00:3E:0B",
+"44:19:B7",
+"44:19:B6"
+],
+total_models: 148,
+logo: "http://evercam-public-assets.s3.amazonaws.com/hikvision/logo.jpg"
+},
+{
+id: "cnb",
+name: "CNB",
+known_macs: [
+""
+],
+total_models: 1,
+logo: "http://evercam-public-assets.s3.amazonaws.com/cnb/logo.jpg"
+},
+{
+id: "evercam",
+name: "EVERCAM",
+known_macs: [
+""
+],
+total_models: 1,
+logo: "http://evercam-public-assets.s3.amazonaws.com/evercam/logo.jpg"
+},
+{
+id: "ubiquiti",
+name: "Ubiquiti Networks",
+known_macs: [
+"00:27:22",
+"04:18:D6",
+"24:A4:3C",
+"68:72:51",
+"DC:9F:DB",
+"F2:EC:38",
+"F2:EC:38"
+],
+total_models: 8,
+logo: "http://evercam-public-assets.s3.amazonaws.com/ubiquiti/logo.jpg"
+}
+]
+}
