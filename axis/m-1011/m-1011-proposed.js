@@ -26,7 +26,7 @@
       discontinued: true,
       onvif: true,
       psia: false,
-      auth_type: basic,
+      auth_type: "basic",
       default_username: "root",
       default_password: "pass",
       icon: "https://evercam-public-assets.s3.amazonaws.com/axis/m1011/icon.jpg",
