@@ -1,8 +1,8 @@
 {
   models: [
     {
-      id: "m1011",    // not model_id ?
-      name: "M1011",   // not model_name ?
+      id: "m1011",
+      name: "M1011",
       vendor_id: "axis",
       vendor_name: "axis",   //add this?
       jpg_url_primary: "axis-cgi/jpg/image.cgi",
