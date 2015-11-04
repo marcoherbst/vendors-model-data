@@ -26,6 +26,8 @@
       audio_io: false,
       discontinued: true,
       onvif: true,
+      onvif_profiles: "S,C,G"
+      onvif_version: "2.0"
       psia: false,
       auth_type: "basic",
       default_username: "root",
