@@ -7,9 +7,9 @@ This is a proposal for a simple to extend format for Vendor Model Data.
 3. Easy / Secure for 3rd parties to fork
 
 ## The layout
-/vendors.json ... all the vendor related data incl. vendor-id
+/vendors/vendors.json ... all the vendor related data incl. vendor-id
 
 /{vendor-id}/logo.png
 
 /{vendor-id}/{model-id}/thumbnail.png
-/{vendor-id}/{model-id}/{model-id}.json
+/{vendor-id}/models/{model-id}/{model-id}.json
