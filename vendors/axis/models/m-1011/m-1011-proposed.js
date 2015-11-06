@@ -26,8 +26,6 @@
       audio_io: false,
       discontinued: true,
       onvif: true,
-      onvif_profiles: "S,C,G"
-      onvif_version: "2.0"
       onvif-model-name: "axis-m1011"   //search for this keyword in the Onvif DIscovery result to identify the model @liutingdu ?
       psia: false,
       auth_type: "basic",
