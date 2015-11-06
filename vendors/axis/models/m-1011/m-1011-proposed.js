@@ -26,7 +26,7 @@
       audio_io: false,
       discontinued: true,
       onvif: true,
-      onvif-model-name: "axis-m1011"   //search for this keyword in the Onvif DIscovery result to identify the model @liutingdu ?
+      onvif-model-name: "axis-m1011"   //This is a string match to Model [string] from http://www.onvif.org/onvif/ver10/device/wsdl/devicemgmt.wsdl#op.GetDeviceInformation 
       psia: false,
       auth_type: "basic",
       default_username: "root",
